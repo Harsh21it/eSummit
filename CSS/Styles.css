@@ -1,0 +1,16 @@
+.navigation{
+    background-color: #FFFBF5;
+}
+.tags
+{
+    padding: auto 3%;
+    margin: 2% 3%;
+}
+#our-team{
+    padding: 3% 2%;
+    text-align: center;
+}
+/* removing card border */
+.card{
+    --bs-card-border-width: 0;
+}
